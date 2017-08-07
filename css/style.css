@@ -219,8 +219,8 @@ input[type="submit"], .w3l_banner_info_left_grid_left h3 a, .w3agile_footer_copy
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
   color: #fff;
-  background: linear-gradient(#b88831, #fef2ab, #b88831)
-  /*background-color: #86c724;*/
+  /*background: linear-gradient(#b88831, #fef2ab, #b88831)*/
+  background-color: #e6b800;
 }
 
 
@@ -250,7 +250,8 @@ input[type="submit"], .w3l_banner_info_left_grid_left h3 a, .w3agile_footer_copy
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(#b88831, #fef2ab, #b88831);
+  background:#e6b800;
+  /*background: linear-gradient(#b88831, #fef2ab, #b88831);*/
   /*Gold color*/
   -webkit-transform: scaleY(0);
   transform: scaleY(0);
